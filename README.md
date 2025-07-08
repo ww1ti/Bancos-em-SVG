@@ -82,15 +82,16 @@ Aqui está a lista de bancos cujos logos estão presentes neste repositório:
 68. Sicoob
 69. Sicredi
 70. Sisprime do Brasil
-71. Starbank
-72. Stone Pagamentos S.A
-73. Sulcredi
-74. Transfeera
-75. Unicred
-76. Uniprime
-77. XP Investimentos
-78. Zemo Bank
-79. Bancos Escuros (Subpasta com alguns bancos já mencionados)
+71. Squid Soluções Financeiras
+72. Starbank
+73. Stone Pagamentos S.A
+74. Sulcredi
+75. Transfeera
+76. Unicred
+77. Uniprime
+78. XP Investimentos
+79. Zemo Bank
+80. Bancos Escuros (Subpasta com alguns bancos já mencionados)
 
 ## Contribuição
 
